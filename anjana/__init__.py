@@ -16,4 +16,4 @@
 
 """ANJANA is an open source framework for anonymizing data with different techniques."""
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
