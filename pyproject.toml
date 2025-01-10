@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "anjana"
-version = "1.0.0"
+version = "1.0.1"
 description = "ANJANA is an open source framework for applying different anonymity techniques."
 authors = [
     "Judith Sáinz-Pardo Díaz <sainzpardo@ifca.unican.es>",
